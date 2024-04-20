@@ -1,5 +1,7 @@
 import network, utime, machine
 
+
+
 #   Replace the following with your WIFI Credentials
 #SSID = "Fibertel WiFi508 2.4GHz"
 SSID = "moto g13"
